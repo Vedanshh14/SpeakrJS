@@ -1,5 +1,5 @@
 let speech = new SpeechSynthesisUtterance();
-console.log("yo")
+//console.log("yo")
 
 let voices = [];
 
